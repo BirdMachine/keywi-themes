@@ -1,0 +1,47 @@
+{
+  "id": "neon-aviary",
+  "name": "Neon Aviary",
+  "version": "1.0.0",
+  "revision": 1,
+  "author": "Keywi contributors",
+  "license": null,
+  "description": "The built-in Neon Aviary theme: midnight purple, magenta and teal.",
+  "tags": [
+    "default",
+    "neon",
+    "gradient"
+  ],
+  "themeDocumentId": "catalog-neon-aviary",
+  "compatibility": {
+    "themeSchemaVersion": 3,
+    "requiredFeatures": []
+  },
+  "package": {
+    "url": "themes/neon-aviary/neon-aviary-1.0.0.keywi-theme.zip",
+    "bytes": 872,
+    "sha256": "cbcc60d8a5e9139f611f6ef884e406e6b1529dbd93a79c959ac7cb04d1a436b9"
+  },
+  "preview": {
+    "thumbnail": "themes/neon-aviary/thumbnail.png",
+    "animation": "themes/neon-aviary/preview.gif",
+    "type": "rendered-demo",
+    "layout": "ENMessagEase",
+    "facet": "ME_LIKE",
+    "durationMs": 8640,
+    "geometry": {
+      "keyBorderWidthDp": 1.5,
+      "keyRadiusDp": 8
+    },
+    "animationBytes": 150513,
+    "animationSha256": "8fe55be9fe53d3402b2ae5604c216fe6be5b29e6cae17e21adb3210a7e9cdecf"
+  },
+  "features": {
+    "animatedBackground": false,
+    "keyGroupCount": 0,
+    "perKeyOverrideCount": 0
+  },
+  "provenance": {
+    "source": "app-default-definition",
+    "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+  }
+}

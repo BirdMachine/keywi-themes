@@ -1,0 +1,34 @@
+[
+  {
+    "id": "birdie-rainbow",
+    "packageBytes": 944,
+    "previewBytes": 204942,
+    "keyGroups": 0,
+    "valid": true,
+    "deviceTested": false
+  },
+  {
+    "id": "sinebow",
+    "packageBytes": 1079,
+    "previewBytes": 186857,
+    "keyGroups": 0,
+    "valid": true,
+    "deviceTested": false
+  },
+  {
+    "id": "neon-aviary",
+    "packageBytes": 872,
+    "previewBytes": 150513,
+    "keyGroups": 0,
+    "valid": true,
+    "deviceTested": false
+  },
+  {
+    "id": "oilslyck",
+    "packageBytes": 4252411,
+    "previewBytes": 1597225,
+    "keyGroups": 1,
+    "valid": true,
+    "deviceTested": false
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 3,
+  "id": "catalog-birdie-rainbow",
+  "name": "Birdie Rainbow",
+  "backdrop": {
+    "angle": 135,
+    "stops": [
+      {
+        "position": 0.0,
+        "color": "18446550160231104512"
+      },
+      {
+        "position": 0.3333333333333333,
+        "color": "18446700423956922368"
+      },
+      {
+        "position": 0.6666666666666666,
+        "color": "18399726753187627008"
+      },
+      {
+        "position": 1.0,
+        "color": "18414195226697531392"
+      }
+    ],
+    "preset": "BIRDIE_RAINBOW",
+    "mode": "COLORFUL",
+    "opacity": 1,
+    "mediaUri": null
+  },
+  "toolbar": {
+    "angle": 135,
+    "stops": [
+      {
+        "position": 0.0,
+        "color": "18446550160231104512"
+      },
+      {
+        "position": 0.3333333333333333,
+        "color": "18446700423956922368"
+      },
+      {
+        "position": 0.6666666666666666,
+        "color": "18399726753187627008"
+      },
+      {
+        "position": 1.0,
+        "color": "18414195226697531392"
+      }
+    ],
+    "preset": "BIRDIE_RAINBOW",
+    "mode": "COLORFUL",
+    "opacity": 1,
+    "mediaUri": null
+  },
+  "toolbarBorderWidth": 1,
+  "toolbarBorderColor": "18446676208931307520",
+  "toolbarKeyboardGap": 0,
+  "keys": {
+    "surfaceStyle": "GRADIENT",
+    "surfaceGradient": {
+      "angle": 22,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18377230814002806784"
+        },
+        {
+          "position": 0.34,
+          "color": "18384861570728460288"
+        },
+        {
+          "position": 0.67,
+          "color": "18398709047801937920"
+        },
+        {
+          "position": 1,
+          "color": "18380622880388939776"
+        }
+      ]
+    },
+    "surfaceColor": "18384861570728460288",
+    "borderStyle": "GRADIENT",
+    "borderGradient": {
+      "angle": 135,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18404873571412213760"
+        },
+        {
+          "position": 0.18,
+          "color": "18426890192246800384"
+        },
+        {
+          "position": 0.42,
+          "color": "18446700552805941248"
+        },
+        {
+          "position": 0.5,
+          "color": "18446731712793673728"
+        },
+        {
+          "position": 0.58,
+          "color": "18446683918397603840"
+        },
+        {
+          "position": 0.78,
+          "color": "18435933769874538496"
+        },
+        {
+          "position": 1,
+          "color": "18406283145319022592"
+        }
+      ]
+    },
+    "borderColor": "18446700552805941248",
+    "shadowColor": "18374686479671623680",
+    "shadowAlpha": 0.55,
+    "shadowElevation": 4,
+    "borderDistribution": "SAME",
+    "borderPhaseStepDegrees": 30,
+    "borderRandomSeed": 0,
+    "keyOverrides": {},
+    "keyGroups": []
+  },
+  "suggestionLozenges": {
+    "surfaceStyle": "SOLID",
+    "surfaceGradient": {
+      "angle": 22,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18377230814002806784"
+        },
+        {
+          "position": 0.34,
+          "color": "18384861570728460288"
+        },
+        {
+          "position": 0.67,
+          "color": "18398709047801937920"
+        },
+        {
+          "position": 1,
+          "color": "18380622880388939776"
+        }
+      ]
+    },
+    "surfaceColor": "13273292550761873408",
+    "borderStyle": "SOLID",
+    "borderGradient": {
+      "angle": 135,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18404873571412213760"
+        },
+        {
+          "position": 0.18,
+          "color": "18426890192246800384"
+        },
+        {
+          "position": 0.42,
+          "color": "18446700552805941248"
+        },
+        {
+          "position": 0.5,
+          "color": "18446731712793673728"
+        },
+        {
+          "position": 0.58,
+          "color": "18446683918397603840"
+        },
+        {
+          "position": 0.78,
+          "color": "18435933769874538496"
+        },
+        {
+          "position": 1,
+          "color": "18406283145319022592"
+        }
+      ]
+    },
+    "borderColor": "8142508121990889472",
+    "borderWidth": 1,
+    "currentWordBackgroundColor": "18375548518262636544",
+    "currentWordHighlightColor": null
+  },
+  "font": null
+}

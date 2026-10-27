@@ -1,0 +1,11 @@
+{
+  "upload": "oilSlyck.zip",
+  "sha256": "f111cbabc16de495c57f10a4941e6797e0eeb333b74cd56772e517246f651272",
+  "originalId": "custom",
+  "originalName": "Custom",
+  "changes": [
+    "catalog identity/display name",
+    "GIF filename extension; media bytes unchanged"
+  ],
+  "keyGroupCount": 1
+}

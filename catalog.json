@@ -1,0 +1,202 @@
+{
+  "catalogVersion": 1,
+  "id": "keywi-official",
+  "name": "Keywi Themes",
+  "description": "Optional premade themes. Downloading adds a named entry; only Apply changes the keyboard.",
+  "repository": "https://github.com/BirdMachine/keywi-themes",
+  "entries": [
+    {
+      "id": "birdie-rainbow",
+      "name": "Birdie Rainbow",
+      "version": "1.0.0",
+      "revision": 1,
+      "author": "Keywi contributors",
+      "license": null,
+      "description": "Original pink, gold, cyan and violet backdrop with grey keys and gold rims.",
+      "tags": [
+        "default",
+        "rainbow",
+        "gradient"
+      ],
+      "themeDocumentId": "catalog-birdie-rainbow",
+      "compatibility": {
+        "themeSchemaVersion": 3,
+        "requiredFeatures": []
+      },
+      "package": {
+        "url": "themes/birdie-rainbow/birdie-rainbow-1.0.0.keywi-theme.zip",
+        "bytes": 944,
+        "sha256": "8636da9423f591852f57c0afcc081946be9c6115ec9b82219d03c50b37e8b0eb"
+      },
+      "preview": {
+        "thumbnail": "themes/birdie-rainbow/thumbnail.png",
+        "animation": "themes/birdie-rainbow/preview.gif",
+        "type": "rendered-demo",
+        "layout": "ENMessagEase",
+        "facet": "ME_LIKE",
+        "durationMs": 8640,
+        "geometry": {
+          "keyBorderWidthDp": 1.5,
+          "keyRadiusDp": 8
+        },
+        "animationBytes": 204942,
+        "animationSha256": "062074082b8194652f3aeafefb2a4f70b26f5f80a18682dbc0bfb342144e0fd5"
+      },
+      "features": {
+        "animatedBackground": false,
+        "keyGroupCount": 0,
+        "perKeyOverrideCount": 0
+      },
+      "provenance": {
+        "source": "app-default-definition",
+        "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+      }
+    },
+    {
+      "id": "sinebow",
+      "name": "Sinebow",
+      "version": "1.0.0",
+      "revision": 1,
+      "author": "Keywi contributors",
+      "license": null,
+      "description": "The Sinebow backdrop preset packaged as a complete named theme.",
+      "tags": [
+        "default",
+        "rainbow",
+        "gradient"
+      ],
+      "themeDocumentId": "catalog-sinebow",
+      "compatibility": {
+        "themeSchemaVersion": 3,
+        "requiredFeatures": []
+      },
+      "package": {
+        "url": "themes/sinebow/sinebow-1.0.0.keywi-theme.zip",
+        "bytes": 1079,
+        "sha256": "5b89bfdc431dac160a7505d8c60a33a919e2449c51e8e9a71d159d3af6217fa6"
+      },
+      "preview": {
+        "thumbnail": "themes/sinebow/thumbnail.png",
+        "animation": "themes/sinebow/preview.gif",
+        "type": "rendered-demo",
+        "layout": "ENMessagEase",
+        "facet": "ME_LIKE",
+        "durationMs": 8640,
+        "geometry": {
+          "keyBorderWidthDp": 1.5,
+          "keyRadiusDp": 8
+        },
+        "animationBytes": 186857,
+        "animationSha256": "cb26c5d81d82f7d0d39a88076ec40d231bed6fa66c1f2a1959b3558d28de62cd"
+      },
+      "features": {
+        "animatedBackground": false,
+        "keyGroupCount": 0,
+        "perKeyOverrideCount": 0
+      },
+      "provenance": {
+        "source": "app-default-definition",
+        "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+      }
+    },
+    {
+      "id": "neon-aviary",
+      "name": "Neon Aviary",
+      "version": "1.0.0",
+      "revision": 1,
+      "author": "Keywi contributors",
+      "license": null,
+      "description": "The built-in Neon Aviary theme: midnight purple, magenta and teal.",
+      "tags": [
+        "default",
+        "neon",
+        "gradient"
+      ],
+      "themeDocumentId": "catalog-neon-aviary",
+      "compatibility": {
+        "themeSchemaVersion": 3,
+        "requiredFeatures": []
+      },
+      "package": {
+        "url": "themes/neon-aviary/neon-aviary-1.0.0.keywi-theme.zip",
+        "bytes": 872,
+        "sha256": "cbcc60d8a5e9139f611f6ef884e406e6b1529dbd93a79c959ac7cb04d1a436b9"
+      },
+      "preview": {
+        "thumbnail": "themes/neon-aviary/thumbnail.png",
+        "animation": "themes/neon-aviary/preview.gif",
+        "type": "rendered-demo",
+        "layout": "ENMessagEase",
+        "facet": "ME_LIKE",
+        "durationMs": 8640,
+        "geometry": {
+          "keyBorderWidthDp": 1.5,
+          "keyRadiusDp": 8
+        },
+        "animationBytes": 150513,
+        "animationSha256": "8fe55be9fe53d3402b2ae5604c216fe6be5b29e6cae17e21adb3210a7e9cdecf"
+      },
+      "features": {
+        "animatedBackground": false,
+        "keyGroupCount": 0,
+        "perKeyOverrideCount": 0
+      },
+      "provenance": {
+        "source": "app-default-definition",
+        "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+      }
+    },
+    {
+      "id": "oilslyck",
+      "name": "OilSlyck",
+      "version": "1.0.0",
+      "revision": 1,
+      "author": "Birdie",
+      "license": null,
+      "description": "Birdie’s OilSlyck export, including MainTools shared gradients and group glyph color.",
+      "tags": [
+        "oilslick",
+        "animated",
+        "gold",
+        "key-groups"
+      ],
+      "themeDocumentId": "catalog-oilslyck",
+      "compatibility": {
+        "themeSchemaVersion": 3,
+        "requiredFeatures": [
+          "key-groups",
+          "group-gradient-canvas",
+          "group-glyph-color"
+        ]
+      },
+      "package": {
+        "url": "themes/oilslyck/oilslyck-1.0.0.keywi-theme.zip",
+        "bytes": 4252411,
+        "sha256": "49adb3c693ee4763d5e2417cc0f791285b78887f653727c348d671eabb41ed87"
+      },
+      "preview": {
+        "thumbnail": "themes/oilslyck/thumbnail.png",
+        "animation": "themes/oilslyck/preview.gif",
+        "type": "rendered-demo",
+        "layout": "ENMessagEase",
+        "facet": "ME_LIKE",
+        "durationMs": 8640,
+        "geometry": {
+          "keyBorderWidthDp": 1.5,
+          "keyRadiusDp": 8
+        },
+        "animationBytes": 1597225,
+        "animationSha256": "77af45209e22c02e4498858b905057d84f5a016fdf0c4d649b9e0972bdc4be05"
+      },
+      "features": {
+        "animatedBackground": true,
+        "keyGroupCount": 1,
+        "perKeyOverrideCount": 0
+      },
+      "provenance": {
+        "source": "user-export",
+        "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+      }
+    }
+  ]
+}

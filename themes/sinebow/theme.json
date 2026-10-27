@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 3,
+  "id": "catalog-sinebow",
+  "name": "Sinebow",
+  "backdrop": {
+    "angle": 0,
+    "stops": [
+      {
+        "position": 0.0,
+        "color": "18374897306731282432"
+      },
+      {
+        "position": 0.08333333333333333,
+        "color": "18379733787798929408"
+      },
+      {
+        "position": 0.16666666666666666,
+        "color": "18392981528524095488"
+      },
+      {
+        "position": 0.25,
+        "color": "18410695558495731712"
+      },
+      {
+        "position": 0.3333333333333333,
+        "color": "18428658206944264192"
+      },
+      {
+        "position": 0.4166666666666667,
+        "color": "18441818334631559168"
+      },
+      {
+        "position": 0.5,
+        "color": "18446533242354925568"
+      },
+      {
+        "position": 0.5833333333333334,
+        "color": "18441696761287278592"
+      },
+      {
+        "position": 0.6666666666666666,
+        "color": "18428449020562112512"
+      },
+      {
+        "position": 0.75,
+        "color": "18410734990590476288"
+      },
+      {
+        "position": 0.8333333333333334,
+        "color": "18392772342141943808"
+      },
+      {
+        "position": 0.9166666666666666,
+        "color": "18379612214454648832"
+      },
+      {
+        "position": 1.0,
+        "color": "18374897306731282432"
+      }
+    ],
+    "preset": "SINEBOW",
+    "mode": "COLORFUL",
+    "opacity": 1,
+    "mediaUri": null
+  },
+  "toolbar": {
+    "angle": 0,
+    "stops": [
+      {
+        "position": 0.0,
+        "color": "18374897306731282432"
+      },
+      {
+        "position": 0.08333333333333333,
+        "color": "18379733787798929408"
+      },
+      {
+        "position": 0.16666666666666666,
+        "color": "18392981528524095488"
+      },
+      {
+        "position": 0.25,
+        "color": "18410695558495731712"
+      },
+      {
+        "position": 0.3333333333333333,
+        "color": "18428658206944264192"
+      },
+      {
+        "position": 0.4166666666666667,
+        "color": "18441818334631559168"
+      },
+      {
+        "position": 0.5,
+        "color": "18446533242354925568"
+      },
+      {
+        "position": 0.5833333333333334,
+        "color": "18441696761287278592"
+      },
+      {
+        "position": 0.6666666666666666,
+        "color": "18428449020562112512"
+      },
+      {
+        "position": 0.75,
+        "color": "18410734990590476288"
+      },
+      {
+        "position": 0.8333333333333334,
+        "color": "18392772342141943808"
+      },
+      {
+        "position": 0.9166666666666666,
+        "color": "18379612214454648832"
+      },
+      {
+        "position": 1.0,
+        "color": "18374897306731282432"
+      }
+    ],
+    "preset": "SINEBOW",
+    "mode": "COLORFUL",
+    "opacity": 1,
+    "mediaUri": null
+  },
+  "toolbarBorderWidth": 1,
+  "toolbarBorderColor": "18446676208931307520",
+  "toolbarKeyboardGap": 0,
+  "keys": {
+    "surfaceStyle": "GRADIENT",
+    "surfaceGradient": {
+      "angle": 22,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18377230814002806784"
+        },
+        {
+          "position": 0.34,
+          "color": "18384861570728460288"
+        },
+        {
+          "position": 0.67,
+          "color": "18398709047801937920"
+        },
+        {
+          "position": 1,
+          "color": "18380622880388939776"
+        }
+      ]
+    },
+    "surfaceColor": "18384861570728460288",
+    "borderStyle": "GRADIENT",
+    "borderGradient": {
+      "angle": 135,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18404873571412213760"
+        },
+        {
+          "position": 0.18,
+          "color": "18426890192246800384"
+        },
+        {
+          "position": 0.42,
+          "color": "18446700552805941248"
+        },
+        {
+          "position": 0.5,
+          "color": "18446731712793673728"
+        },
+        {
+          "position": 0.58,
+          "color": "18446683918397603840"
+        },
+        {
+          "position": 0.78,
+          "color": "18435933769874538496"
+        },
+        {
+          "position": 1,
+          "color": "18406283145319022592"
+        }
+      ]
+    },
+    "borderColor": "18446700552805941248",
+    "shadowColor": "18374686479671623680",
+    "shadowAlpha": 0.55,
+    "shadowElevation": 4,
+    "borderDistribution": "SAME",
+    "borderPhaseStepDegrees": 30,
+    "borderRandomSeed": 0,
+    "keyOverrides": {},
+    "keyGroups": []
+  },
+  "suggestionLozenges": {
+    "surfaceStyle": "SOLID",
+    "surfaceGradient": {
+      "angle": 22,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18377230814002806784"
+        },
+        {
+          "position": 0.34,
+          "color": "18384861570728460288"
+        },
+        {
+          "position": 0.67,
+          "color": "18398709047801937920"
+        },
+        {
+          "position": 1,
+          "color": "18380622880388939776"
+        }
+      ]
+    },
+    "surfaceColor": "13273292550761873408",
+    "borderStyle": "SOLID",
+    "borderGradient": {
+      "angle": 135,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18404873571412213760"
+        },
+        {
+          "position": 0.18,
+          "color": "18426890192246800384"
+        },
+        {
+          "position": 0.42,
+          "color": "18446700552805941248"
+        },
+        {
+          "position": 0.5,
+          "color": "18446731712793673728"
+        },
+        {
+          "position": 0.58,
+          "color": "18446683918397603840"
+        },
+        {
+          "position": 0.78,
+          "color": "18435933769874538496"
+        },
+        {
+          "position": 1,
+          "color": "18406283145319022592"
+        }
+      ]
+    },
+    "borderColor": "8142508121990889472",
+    "borderWidth": 1,
+    "currentWordBackgroundColor": "18375548518262636544",
+    "currentWordHighlightColor": null
+  },
+  "font": null
+}

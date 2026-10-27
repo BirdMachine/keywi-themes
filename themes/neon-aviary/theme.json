@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 3,
+  "id": "catalog-neon-aviary",
+  "name": "Neon Aviary",
+  "backdrop": {
+    "angle": 132,
+    "stops": [
+      {
+        "position": 0,
+        "color": "18377228653634256896"
+      },
+      {
+        "position": 0.46,
+        "color": "18381742294895165440"
+      },
+      {
+        "position": 1,
+        "color": "18376141361188438016"
+      }
+    ],
+    "preset": "CUSTOM",
+    "mode": "COLORFUL",
+    "opacity": 1,
+    "mediaUri": null
+  },
+  "toolbar": {
+    "angle": 105,
+    "stops": [
+      {
+        "position": 0.0,
+        "color": "16580578399890702336"
+      },
+      {
+        "position": 1.0,
+        "color": "16574712552601157632"
+      }
+    ],
+    "preset": "CUSTOM",
+    "mode": "COLORFUL",
+    "opacity": 0.96,
+    "mediaUri": null
+  },
+  "toolbarBorderWidth": 1.4,
+  "toolbarBorderColor": "18446576758963568640",
+  "toolbarKeyboardGap": 3,
+  "keys": {
+    "surfaceStyle": "GRADIENT",
+    "surfaceGradient": {
+      "angle": 118,
+      "stops": [
+        {
+          "position": 0.0,
+          "color": "18384837488846831616"
+        },
+        {
+          "position": 0.5,
+          "color": "18414407952132734976"
+        },
+        {
+          "position": 1.0,
+          "color": "18377074077761273856"
+        }
+      ]
+    },
+    "surfaceColor": "18384837488846831616",
+    "borderStyle": "GRADIENT",
+    "borderGradient": {
+      "angle": 28,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18446550332029796352"
+        },
+        {
+          "position": 0.48,
+          "color": "18446700479791497216"
+        },
+        {
+          "position": 1,
+          "color": "18394379729357504512"
+        }
+      ]
+    },
+    "borderColor": "18446700479791497216",
+    "shadowColor": "18374686479671623680",
+    "shadowAlpha": 0.62,
+    "shadowElevation": 5,
+    "borderDistribution": "SAME",
+    "borderPhaseStepDegrees": 30,
+    "borderRandomSeed": 0,
+    "keyOverrides": {},
+    "keyGroups": []
+  },
+  "suggestionLozenges": {
+    "surfaceStyle": "GRADIENT",
+    "surfaceGradient": {
+      "angle": 90,
+      "stops": [
+        {
+          "position": 0.0,
+          "color": "14720601825484996608"
+        },
+        {
+          "position": 1.0,
+          "color": "14701811163176370176"
+        }
+      ]
+    },
+    "surfaceColor": "14711027145086337024",
+    "borderStyle": "GRADIENT",
+    "borderGradient": {
+      "angle": 28,
+      "stops": [
+        {
+          "position": 0,
+          "color": "18446550332029796352"
+        },
+        {
+          "position": 0.48,
+          "color": "18446700479791497216"
+        },
+        {
+          "position": 1,
+          "color": "18394379729357504512"
+        }
+      ]
+    },
+    "borderColor": "18446576758963568640",
+    "borderWidth": 1.2,
+    "currentWordBackgroundColor": "18375548518262636544",
+    "currentWordHighlightColor": null
+  },
+  "font": null
+}

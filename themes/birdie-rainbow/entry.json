@@ -1,0 +1,47 @@
+{
+  "id": "birdie-rainbow",
+  "name": "Birdie Rainbow",
+  "version": "1.0.0",
+  "revision": 1,
+  "author": "Keywi contributors",
+  "license": null,
+  "description": "Original pink, gold, cyan and violet backdrop with grey keys and gold rims.",
+  "tags": [
+    "default",
+    "rainbow",
+    "gradient"
+  ],
+  "themeDocumentId": "catalog-birdie-rainbow",
+  "compatibility": {
+    "themeSchemaVersion": 3,
+    "requiredFeatures": []
+  },
+  "package": {
+    "url": "themes/birdie-rainbow/birdie-rainbow-1.0.0.keywi-theme.zip",
+    "bytes": 944,
+    "sha256": "8636da9423f591852f57c0afcc081946be9c6115ec9b82219d03c50b37e8b0eb"
+  },
+  "preview": {
+    "thumbnail": "themes/birdie-rainbow/thumbnail.png",
+    "animation": "themes/birdie-rainbow/preview.gif",
+    "type": "rendered-demo",
+    "layout": "ENMessagEase",
+    "facet": "ME_LIKE",
+    "durationMs": 8640,
+    "geometry": {
+      "keyBorderWidthDp": 1.5,
+      "keyRadiusDp": 8
+    },
+    "animationBytes": 204942,
+    "animationSha256": "062074082b8194652f3aeafefb2a4f70b26f5f80a18682dbc0bfb342144e0fd5"
+  },
+  "features": {
+    "animatedBackground": false,
+    "keyGroupCount": 0,
+    "perKeyOverrideCount": 0
+  },
+  "provenance": {
+    "source": "app-default-definition",
+    "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+  }
+}

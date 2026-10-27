@@ -1,0 +1,52 @@
+{
+  "id": "oilslyck",
+  "name": "OilSlyck",
+  "version": "1.0.0",
+  "revision": 1,
+  "author": "Birdie",
+  "license": null,
+  "description": "Birdie’s OilSlyck export, including MainTools shared gradients and group glyph color.",
+  "tags": [
+    "oilslick",
+    "animated",
+    "gold",
+    "key-groups"
+  ],
+  "themeDocumentId": "catalog-oilslyck",
+  "compatibility": {
+    "themeSchemaVersion": 3,
+    "requiredFeatures": [
+      "key-groups",
+      "group-gradient-canvas",
+      "group-glyph-color"
+    ]
+  },
+  "package": {
+    "url": "themes/oilslyck/oilslyck-1.0.0.keywi-theme.zip",
+    "bytes": 4252411,
+    "sha256": "49adb3c693ee4763d5e2417cc0f791285b78887f653727c348d671eabb41ed87"
+  },
+  "preview": {
+    "thumbnail": "themes/oilslyck/thumbnail.png",
+    "animation": "themes/oilslyck/preview.gif",
+    "type": "rendered-demo",
+    "layout": "ENMessagEase",
+    "facet": "ME_LIKE",
+    "durationMs": 8640,
+    "geometry": {
+      "keyBorderWidthDp": 1.5,
+      "keyRadiusDp": 8
+    },
+    "animationBytes": 1597225,
+    "animationSha256": "77af45209e22c02e4498858b905057d84f5a016fdf0c4d649b9e0972bdc4be05"
+  },
+  "features": {
+    "animatedBackground": true,
+    "keyGroupCount": 1,
+    "perKeyOverrideCount": 0
+  },
+  "provenance": {
+    "source": "user-export",
+    "appCommit": "232070cbde42c9e7c893874bc50e2145140609b9"
+  }
+}
